@@ -1,0 +1,6 @@
+framework module Pods_TestInterviewTransvision {
+  umbrella header "Pods-TestInterviewTransvision-umbrella.h"
+
+  export *
+  module * { export * }
+}
